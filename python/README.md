@@ -2,7 +2,7 @@
 ```
  $ pip install pyyaml
  $ pip install lxml
- $ pip install pyyaml
+ $ pip install pandas
 ```
 
 # Usage
